@@ -1,6 +1,4 @@
-﻿namespace TagsCloudVisualization.Settings
+﻿namespace TagsCloudVisualization.Settings;
+public class TextReaderSettings
 {
-    internal class TextReaderSettings
-    {
-    }
 }
